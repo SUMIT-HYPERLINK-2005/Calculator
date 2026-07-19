@@ -57,11 +57,11 @@ Smart-Glass-Calculator/
 
 ### 🧮 Calculator in Action
 
-![Calculation](Output2.png)
+![Output2](Output2.png)
 
 ### 📱 Mobile View
 
-![Mobile View](Output3.png)
+![Output3](Output3.png)
 
 ---
 
