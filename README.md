@@ -23,20 +23,6 @@ A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - CSS3
 - JavaScript (ES6)
 
----
-
-## 📂 Project Structure
-
-```
-Smart-Glass-Calculator/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-└── screenshots/
-    ├── home.png
-    ├── calculation.png
-    └── mobile-view.png
 ```
 
 ---
@@ -53,15 +39,15 @@ Smart-Glass-Calculator/
 
 ### 🏠 Home Screen
 
-![Output1](Output1.png)
+![Output 1](Output 1.png)
 
 ### 🧮 Calculator in Action
 
-![Output2](Output2.png)
+![Output2](Output 2.png)
 
 ### 📱 Mobile View
 
-![Output3](Output3.png)
+![Output 3](Output 3.png)
 
 ---
 
