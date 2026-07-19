@@ -53,7 +53,7 @@ Smart-Glass-Calculator/
 
 ### 🏠 Home Screen
 
-![Home Screen](Output1.png)
+![Output1](Output1.png)
 
 ### 🧮 Calculator in Action
 
