@@ -39,15 +39,15 @@ A modern and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 
 ### 🏠 Home Screen
 
-![output 1](output 1.png)
+![output1](output1.png)
 
 ### 🧮 Calculator in Action
 
-![output2](output 2.png)
+![output2](output2.png)
 
 ### 📱 Mobile View
 
-![output 3](output 3.png)
+![output3](output3.png)
 
 ---
 
